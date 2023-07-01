@@ -1,0 +1,17 @@
+C:\Users\yusuf\source\repos\PotatoObf\PotatoObf\bin\Debug\net6.0\PotatoObf.exe
+C:\Users\yusuf\source\repos\PotatoObf\PotatoObf\bin\Debug\net6.0\PotatoObf.deps.json
+C:\Users\yusuf\source\repos\PotatoObf\PotatoObf\bin\Debug\net6.0\PotatoObf.runtimeconfig.json
+C:\Users\yusuf\source\repos\PotatoObf\PotatoObf\bin\Debug\net6.0\PotatoObf.dll
+C:\Users\yusuf\source\repos\PotatoObf\PotatoObf\bin\Debug\net6.0\PotatoObf.pdb
+C:\Users\yusuf\source\repos\PotatoObf\PotatoObf\bin\Debug\net6.0\dnlib.dll
+C:\Users\yusuf\source\repos\PotatoObf\PotatoObf\obj\Debug\net6.0\PotatoObf.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\PotatoObf\PotatoObf\obj\Debug\net6.0\PotatoObf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\PotatoObf\PotatoObf\obj\Debug\net6.0\PotatoObf.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\PotatoObf\PotatoObf\obj\Debug\net6.0\PotatoObf.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\PotatoObf\PotatoObf\obj\Debug\net6.0\PotatoObf.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\PotatoObf\PotatoObf\obj\Debug\net6.0\PotatoObf.csproj.CopyComplete
+C:\Users\yusuf\source\repos\PotatoObf\PotatoObf\obj\Debug\net6.0\PotatoObf.dll
+C:\Users\yusuf\source\repos\PotatoObf\PotatoObf\obj\Debug\net6.0\refint\PotatoObf.dll
+C:\Users\yusuf\source\repos\PotatoObf\PotatoObf\obj\Debug\net6.0\PotatoObf.pdb
+C:\Users\yusuf\source\repos\PotatoObf\PotatoObf\obj\Debug\net6.0\PotatoObf.genruntimeconfig.cache
+C:\Users\yusuf\source\repos\PotatoObf\PotatoObf\obj\Debug\net6.0\ref\PotatoObf.dll
